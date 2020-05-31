@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW2v1</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="JsonFile">com.aw.HW2v1.fileprovider</string>
+    <string name="clear_Map">Clear Map</string>
+    <string name="accelerometer">Akcelerometr</string>
+</resources>
